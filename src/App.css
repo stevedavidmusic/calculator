@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App__Master {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+}
+
+.App__Row1, .App__Row2, .App__Row3, .App__Row4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; 
+}
